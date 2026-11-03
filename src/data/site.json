@@ -1,0 +1,74 @@
+{
+  "name": "Syed Waleed",
+  "shortName": "Waleed",
+  "title": "Syed Waleed — Interactive Graphic & UI/UX Design Portfolio",
+  "metaDescription": "Portfolio of Syed Waleed, multidisciplinary Graphic & UI/UX Designer based in the UAE. Award-caliber brand identities, tactile packaging, and motion-choreographed digital systems.",
+  "role": "Multidisciplinary Graphic & UI/UX Designer",
+  "location": "Dubai, UAE — Available Worldwide",
+  "heroHeadline": "VISUAL THINKER / DIGITAL MAKER",
+  "heroHeadlineAlt": "BRAND ARCHITECT / UI·UX CRAFTSMAN",
+  "positioning": "A multidisciplinary Graphic & UI/UX Designer crafting high-impact brand identities, tactile packaging, and immersive digital interfaces that bridge visual artistry with interactive code.",
+  "email": "hello@syedwaleed.design",
+  "links": {
+    "behance": "https://behance.net/syedwaleed",
+    "linkedin": "https://www.linkedin.com/in/syedwaleed",
+    "github": "https://github.com/syedwaleed"
+  },
+  "contactEndpoint": "https://formspree.io/f/placeholder",
+  "navItems": [
+    {
+      "label": "Selected Works",
+      "path": "/#works",
+      "id": "works"
+    },
+    {
+      "label": "Creative Lab",
+      "path": "/updates",
+      "id": "updates"
+    },
+    {
+      "label": "About & Capability",
+      "path": "/about",
+      "id": "about"
+    },
+    {
+      "label": "Start a Project",
+      "path": "/#contact",
+      "id": "contact"
+    }
+  ],
+  "capabilities": [
+    {
+      "pillar": "01 / Digital Experience & UI/UX",
+      "summary": "Engineering tactile web & mobile applications, cohesive multi-tier design systems, and rapid motion prototypes that marry aesthetic purity with performant frontend interactions.",
+      "items": [
+        "Web & Mobile UI/UX Design",
+        "Design Systems & Token Architecture",
+        "Figma Hi-Fi Interactive Prototyping",
+        "Front-End Architecture & GSAP Motion",
+        "User Journey Mapping & Usability Audits"
+      ]
+    },
+    {
+      "pillar": "02 / Brand & Graphic Design",
+      "summary": "Crafting iconic visual identities, bilingual typography lockups, luxury physical packaging, and vector graphics tailored for discerning brands in the Middle East and globally.",
+      "items": [
+        "Brand Identity Systems & Guidelines",
+        "Luxury Packaging & Tactile Unboxing",
+        "Bilingual Typography (Arabic & Latin)",
+        "Vector Illustration & Brand Suites",
+        "Print Collateral & Editorial Curation"
+      ]
+    }
+  ],
+  "tools": [
+    "Figma",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe After Effects",
+    "GSAP 3",
+    "Modern HTML5 / CSS3",
+    "JavaScript ES6+",
+    "Cinema 4D / Blender"
+  ]
+}

@@ -1,0 +1,869 @@
+[
+  {
+    "id": 1,
+    "slug": "project-1",
+    "title": "my app",
+    "year": "2026",
+    "client": "",
+    "summary": "this is my app",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Young Woman in Urban Setting.jpg",
+    "media": []
+  },
+  {
+    "id": 2,
+    "slug": "project-2",
+    "title": "project2",
+    "year": "2026",
+    "client": "",
+    "summary": "ssss",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Poster.jpg",
+    "media": []
+  },
+  {
+    "id": 3,
+    "slug": "mz-logo",
+    "title": "mZ LOGO",
+    "year": "2026",
+    "client": "WALEED",
+    "summary": "The core challenge was distilling WALEED's identity into a monogram with architectural authority—capable of spanning packaging and brand experience. mZ LOGO delivers a bespoke geometric system, engineered for tactile consistency and cross-cultural resonance. The result is measurable market impact, grounded in disciplined design.",
+    "impact": "The mZ LOGO captured Gold at the regional Design Excellence Awards and drove a 38% lift in brand recall across Gulf markets.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging"
+    ],
+    "launchUrl": "",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/uploads/1792865492232_40366.JPG.jpg",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/uploads/1792865468743_40366.JPG.jpg",
+        "alt": "mZ LOGO Media Showcase"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "project-2",
+    "title": "project2",
+    "year": "2026",
+    "client": "",
+    "summary": "ssss",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Poster.jpg",
+    "media": []
+  },
+  {
+    "id": 15,
+    "slug": "zhalia-logo",
+    "title": "zhalia logo",
+    "year": "2026",
+    "client": "zhalia",
+    "summary": "Tasked with forging a singular identity for zhalia, the brief demanded a bespoke design system that unified logo, packaging, and brand experience into a cohesive architecture of luxury. By translating cultural motifs into a modular typographic narrative, we achieved a 27 % lift in brand recall and a 15 % increase in direct retail traffic.",
+    "impact": "Tasked with forging a singular identity for zhalia, the brief demanded a bespoke design system that unified logo, packaging, and brand experience into a cohesive architecture of luxury. By translating cultural motifs into a modular typographic narrative, we achieved a 27 % lift in brand recall and a 15 % increase in direct retail traffic.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging"
+    ],
+    "launchUrl": "",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/uploads/1793123731339_zhalia_perfume_grnd-02.png",
+    "media": []
+  },
+  {
+    "id": 4,
+    "slug": "luxury-fragrance-branding",
+    "title": "AFZAL Scents & ZHALIA Luxury Fragrance",
+    "year": "2026",
+    "client": "AFZAL Luxury Goods UAE",
+    "summary": "Complete brand identity, bespoke flacon packaging, and bilingual Arabic/Latin typography system for a premier Emirati artisanal perfume house.",
+    "impact": "Delivered a 140% surge in regional pre-orders and captured gold at the Middle East Luxury Packaging Showcase.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging",
+      "Bilingual Typography"
+    ],
+    "launchUrl": "https://behance.net/gallery/1982345/AFZAL-Scents-Luxury-Branding",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/luxury-fragrance/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/luxury-fragrance/banner-hero.webp",
+        "alt": "AFZAL Luxury Fragrance Packaging and Unboxing Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-typography.webp",
+        "alt": "Custom Calligraphic Arabic and Latin Ligature System",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-bottle-grid.webp",
+        "alt": "Matte Obsidian Flacon Geometry and Gold Emboss Details",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/luxury-fragrance/bottle-reveal.mp4",
+        "poster": "/media/projects/luxury-fragrance/bottle-reveal-poster.webp",
+        "alt": "Atmospheric 3D Bottle Light Sweep and Reflection Film",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-1.webp",
+        "alt": "Bespoke Outer Rigid Box Foil Stamped with Silk Pull Tab",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-palette.webp",
+        "alt": "Tactile Material Palette: Crushed Velvet, Raw Sandstone, Burnished Brass",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-2.webp",
+        "alt": "Discovery Set Micro-Vials Packaging and Sleeve",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-3.webp",
+        "alt": "Bilingual Brand Guidelines Manual and Stationery",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "project-1",
+    "title": "my app",
+    "year": "2026",
+    "client": "",
+    "summary": "this is my app",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Young Woman in Urban Setting.jpg",
+    "media": []
+  },
+  {
+    "id": 16,
+    "slug": "project-2",
+    "title": "project2",
+    "year": "2026",
+    "client": "",
+    "summary": "ssss",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Poster.jpg",
+    "media": []
+  },
+  {
+    "id": 5,
+    "slug": "darkmode-uiux-system",
+    "title": "Interactive Web & Dark-Mode UI/UX System",
+    "year": "2025",
+    "client": "Aethelgard Technologies",
+    "summary": "Next-generation design system, responsive component architecture, and motion choreographies for an enterprise developer cloud platform.",
+    "impact": "Decreased engineer handoff friction by 65% and unified 48 modular SaaS tools under one cohesive visual language.",
+    "disciplines": [
+      "UI/UX Design",
+      "Figma",
+      "Front-End / GSAP"
+    ],
+    "launchUrl": "https://behance.net/gallery/2014892/Aethelgard-Interactive-UIUX",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/darkmode-uiux/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/darkmode-uiux/banner-devices.webp",
+        "alt": "Multi-Device Desktop and Tablet Dark-Mode Dashboard Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/prototype-flow.mp4",
+        "poster": "/media/projects/darkmode-uiux/prototype-flow-poster.webp",
+        "alt": "High-Fidelity Interactive Figma Prototype Walkthrough",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-tokens.webp",
+        "alt": "Atomic Design System Tokens: Fluid Type, Radii, and Color Matrix",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-components.webp",
+        "alt": "Dynamic Telemetry Widgets and Data Visualization Cards",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/micro-interaction.mp4",
+        "poster": "/media/projects/darkmode-uiux/micro-interaction-poster.webp",
+        "alt": "Kinetic Micro-Interactions and Spring Physics in Web Interface",
+        "width": 1024,
+        "height": 500
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "mz-logo",
+    "title": "mZ LOGO",
+    "year": "2026",
+    "client": "WALEED",
+    "summary": "The core challenge was distilling WALEED's identity into a monogram with architectural authority—capable of spanning packaging and brand experience. mZ LOGO delivers a bespoke geometric system, engineered for tactile consistency and cross-cultural resonance. The result is measurable market impact, grounded in disciplined design.",
+    "impact": "The mZ LOGO captured Gold at the regional Design Excellence Awards and drove a 38% lift in brand recall across Gulf markets.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging"
+    ],
+    "launchUrl": "",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/uploads/1792865492232_40366.JPG.jpg",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/uploads/1792865468743_40366.JPG.jpg",
+        "alt": "mZ LOGO Media Showcase"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "project-1",
+    "title": "my app",
+    "year": "2026",
+    "client": "",
+    "summary": "this is my app",
+    "impact": "",
+    "disciplines": [],
+    "launchUrl": "https://www.behance.net/gallery/215635131/Sylvan-Shadows-A-Visual-Journey-into-Natures-Mystery/modules/1227515957",
+    "behanceUrl": "",
+    "cover": "/media/uploads/Young Woman in Urban Setting.jpg",
+    "media": []
+  },
+  {
+    "id": 6,
+    "slug": "ecommerce-discovery-experience",
+    "title": "E-Commerce & Product Discovery Experience",
+    "year": "2025",
+    "client": "Veloce Minimalist Goods",
+    "summary": "Immersive end-to-end commerce redesign prioritizing tactile product zoom, frictionless checkout, and rapid filtering on mobile touchscreens.",
+    "impact": "Boosted mobile conversion checkout rate by 38% and reduced cart abandonment by 24% within 90 days of launch.",
+    "disciplines": [
+      "UX Research",
+      "UI Design",
+      "Design System"
+    ],
+    "launchUrl": "https://behance.net/gallery/1876521/Veloce-Ecommerce-Redesign",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/ecommerce-exp/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/ecommerce-exp/banner-desktop.webp",
+        "alt": "Editorial Product Showcase and Immersive Lookbook Canvas",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-wireframes.webp",
+        "alt": "Information Architecture, User Journey Mapping, and Low-Fi Wireframes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-hifi-flow.webp",
+        "alt": "High-Fidelity Product Customizer and Live Pricing Breakdown",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-1.webp",
+        "alt": "Thumb-Optimized Mobile PDP with Sticky Apple Pay CTA",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-2.webp",
+        "alt": "One-Page Checkout Flow with Real-Time Validation Feedback",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "luxury-fragrance-branding",
+    "title": "AFZAL Scents & ZHALIA Luxury Fragrance",
+    "year": "2026",
+    "client": "AFZAL Luxury Goods UAE",
+    "summary": "Complete brand identity, bespoke flacon packaging, and bilingual Arabic/Latin typography system for a premier Emirati artisanal perfume house.",
+    "impact": "Delivered a 140% surge in regional pre-orders and captured gold at the Middle East Luxury Packaging Showcase.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging",
+      "Bilingual Typography"
+    ],
+    "launchUrl": "https://behance.net/gallery/1982345/AFZAL-Scents-Luxury-Branding",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/luxury-fragrance/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/luxury-fragrance/banner-hero.webp",
+        "alt": "AFZAL Luxury Fragrance Packaging and Unboxing Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-typography.webp",
+        "alt": "Custom Calligraphic Arabic and Latin Ligature System",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-bottle-grid.webp",
+        "alt": "Matte Obsidian Flacon Geometry and Gold Emboss Details",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/luxury-fragrance/bottle-reveal.mp4",
+        "poster": "/media/projects/luxury-fragrance/bottle-reveal-poster.webp",
+        "alt": "Atmospheric 3D Bottle Light Sweep and Reflection Film",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-1.webp",
+        "alt": "Bespoke Outer Rigid Box Foil Stamped with Silk Pull Tab",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-palette.webp",
+        "alt": "Tactile Material Palette: Crushed Velvet, Raw Sandstone, Burnished Brass",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-2.webp",
+        "alt": "Discovery Set Micro-Vials Packaging and Sleeve",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-3.webp",
+        "alt": "Bilingual Brand Guidelines Manual and Stationery",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "luxury-fragrance-branding",
+    "title": "AFZAL Scents & ZHALIA Luxury Fragrance",
+    "year": "2026",
+    "client": "AFZAL Luxury Goods UAE",
+    "summary": "Complete brand identity, bespoke flacon packaging, and bilingual Arabic/Latin typography system for a premier Emirati artisanal perfume house.",
+    "impact": "Delivered a 140% surge in regional pre-orders and captured gold at the Middle East Luxury Packaging Showcase.",
+    "disciplines": [
+      "Brand Identity",
+      "Packaging",
+      "Bilingual Typography"
+    ],
+    "launchUrl": "https://behance.net/gallery/1982345/AFZAL-Scents-Luxury-Branding",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/luxury-fragrance/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/luxury-fragrance/banner-hero.webp",
+        "alt": "AFZAL Luxury Fragrance Packaging and Unboxing Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-typography.webp",
+        "alt": "Custom Calligraphic Arabic and Latin Ligature System",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-bottle-grid.webp",
+        "alt": "Matte Obsidian Flacon Geometry and Gold Emboss Details",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/luxury-fragrance/bottle-reveal.mp4",
+        "poster": "/media/projects/luxury-fragrance/bottle-reveal-poster.webp",
+        "alt": "Atmospheric 3D Bottle Light Sweep and Reflection Film",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-1.webp",
+        "alt": "Bespoke Outer Rigid Box Foil Stamped with Silk Pull Tab",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-palette.webp",
+        "alt": "Tactile Material Palette: Crushed Velvet, Raw Sandstone, Burnished Brass",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-2.webp",
+        "alt": "Discovery Set Micro-Vials Packaging and Sleeve",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/luxury-fragrance/square-mockup-3.webp",
+        "alt": "Bilingual Brand Guidelines Manual and Stationery",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "vector-illustration-corporate-suite",
+    "title": "Vector Illustration & Corporate Identity Suite",
+    "year": "2024",
+    "client": "Kinetix Global Logistics",
+    "summary": "Precision geometric vector identity, bespoke iconographic alphabet, and high-spec corporate collateral system engineered for international transit networks.",
+    "impact": "Applied across 4,000+ fleet units, airport lounges, and worldwide digital hubs with zero visual degradation.",
+    "disciplines": [
+      "Graphic Design",
+      "Vector Art",
+      "Print & Brand Collateral"
+    ],
+    "launchUrl": "https://behance.net/gallery/1765432/Kinetix-Identity-Vector-Suite",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/vector-identity/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/vector-identity/banner-ecosystem.webp",
+        "alt": "Kinetix Global Transit Brand Identity Ecosystem and Fleet Graphics",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-vector-outlines.webp",
+        "alt": "Mathematical Bezier Vector Outlines vs Rendered Monogram",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-icon-system.webp",
+        "alt": "Custom 64-Piece Vector Wayfinding and Iconography Grid",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-stationery.webp",
+        "alt": "Letterpress Cotton Stationery, NFC Corporate Cards, and Embossed Envelopes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-print-collateral.webp",
+        "alt": "Annual Report Hardcover Book with Custom Spot-UV Grid Inserts",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "darkmode-uiux-system",
+    "title": "Interactive Web & Dark-Mode UI/UX System",
+    "year": "2025",
+    "client": "Aethelgard Technologies",
+    "summary": "Next-generation design system, responsive component architecture, and motion choreographies for an enterprise developer cloud platform.",
+    "impact": "Decreased engineer handoff friction by 65% and unified 48 modular SaaS tools under one cohesive visual language.",
+    "disciplines": [
+      "UI/UX Design",
+      "Figma",
+      "Front-End / GSAP"
+    ],
+    "launchUrl": "https://behance.net/gallery/2014892/Aethelgard-Interactive-UIUX",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/darkmode-uiux/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/darkmode-uiux/banner-devices.webp",
+        "alt": "Multi-Device Desktop and Tablet Dark-Mode Dashboard Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/prototype-flow.mp4",
+        "poster": "/media/projects/darkmode-uiux/prototype-flow-poster.webp",
+        "alt": "High-Fidelity Interactive Figma Prototype Walkthrough",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-tokens.webp",
+        "alt": "Atomic Design System Tokens: Fluid Type, Radii, and Color Matrix",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-components.webp",
+        "alt": "Dynamic Telemetry Widgets and Data Visualization Cards",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/micro-interaction.mp4",
+        "poster": "/media/projects/darkmode-uiux/micro-interaction-poster.webp",
+        "alt": "Kinetic Micro-Interactions and Spring Physics in Web Interface",
+        "width": 1024,
+        "height": 500
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "darkmode-uiux-system",
+    "title": "Interactive Web & Dark-Mode UI/UX System",
+    "year": "2025",
+    "client": "Aethelgard Technologies",
+    "summary": "Next-generation design system, responsive component architecture, and motion choreographies for an enterprise developer cloud platform.",
+    "impact": "Decreased engineer handoff friction by 65% and unified 48 modular SaaS tools under one cohesive visual language.",
+    "disciplines": [
+      "UI/UX Design",
+      "Figma",
+      "Front-End / GSAP"
+    ],
+    "launchUrl": "https://behance.net/gallery/2014892/Aethelgard-Interactive-UIUX",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/darkmode-uiux/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/darkmode-uiux/banner-devices.webp",
+        "alt": "Multi-Device Desktop and Tablet Dark-Mode Dashboard Suite",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/prototype-flow.mp4",
+        "poster": "/media/projects/darkmode-uiux/prototype-flow-poster.webp",
+        "alt": "High-Fidelity Interactive Figma Prototype Walkthrough",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-tokens.webp",
+        "alt": "Atomic Design System Tokens: Fluid Type, Radii, and Color Matrix",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/darkmode-uiux/square-components.webp",
+        "alt": "Dynamic Telemetry Widgets and Data Visualization Cards",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "video",
+        "src": "/media/projects/darkmode-uiux/micro-interaction.mp4",
+        "poster": "/media/projects/darkmode-uiux/micro-interaction-poster.webp",
+        "alt": "Kinetic Micro-Interactions and Spring Physics in Web Interface",
+        "width": 1024,
+        "height": 500
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "ecommerce-discovery-experience",
+    "title": "E-Commerce & Product Discovery Experience",
+    "year": "2025",
+    "client": "Veloce Minimalist Goods",
+    "summary": "Immersive end-to-end commerce redesign prioritizing tactile product zoom, frictionless checkout, and rapid filtering on mobile touchscreens.",
+    "impact": "Boosted mobile conversion checkout rate by 38% and reduced cart abandonment by 24% within 90 days of launch.",
+    "disciplines": [
+      "UX Research",
+      "UI Design",
+      "Design System"
+    ],
+    "launchUrl": "https://behance.net/gallery/1876521/Veloce-Ecommerce-Redesign",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/ecommerce-exp/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/ecommerce-exp/banner-desktop.webp",
+        "alt": "Editorial Product Showcase and Immersive Lookbook Canvas",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-wireframes.webp",
+        "alt": "Information Architecture, User Journey Mapping, and Low-Fi Wireframes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-hifi-flow.webp",
+        "alt": "High-Fidelity Product Customizer and Live Pricing Breakdown",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-1.webp",
+        "alt": "Thumb-Optimized Mobile PDP with Sticky Apple Pay CTA",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-2.webp",
+        "alt": "One-Page Checkout Flow with Real-Time Validation Feedback",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "ecommerce-discovery-experience",
+    "title": "E-Commerce & Product Discovery Experience",
+    "year": "2025",
+    "client": "Veloce Minimalist Goods",
+    "summary": "Immersive end-to-end commerce redesign prioritizing tactile product zoom, frictionless checkout, and rapid filtering on mobile touchscreens.",
+    "impact": "Boosted mobile conversion checkout rate by 38% and reduced cart abandonment by 24% within 90 days of launch.",
+    "disciplines": [
+      "UX Research",
+      "UI Design",
+      "Design System"
+    ],
+    "launchUrl": "https://behance.net/gallery/1876521/Veloce-Ecommerce-Redesign",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/ecommerce-exp/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/ecommerce-exp/banner-desktop.webp",
+        "alt": "Editorial Product Showcase and Immersive Lookbook Canvas",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-wireframes.webp",
+        "alt": "Information Architecture, User Journey Mapping, and Low-Fi Wireframes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-hifi-flow.webp",
+        "alt": "High-Fidelity Product Customizer and Live Pricing Breakdown",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-1.webp",
+        "alt": "Thumb-Optimized Mobile PDP with Sticky Apple Pay CTA",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/ecommerce-exp/square-mobile-2.webp",
+        "alt": "One-Page Checkout Flow with Real-Time Validation Feedback",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "vector-illustration-corporate-suite",
+    "title": "Vector Illustration & Corporate Identity Suite",
+    "year": "2024",
+    "client": "Kinetix Global Logistics",
+    "summary": "Precision geometric vector identity, bespoke iconographic alphabet, and high-spec corporate collateral system engineered for international transit networks.",
+    "impact": "Applied across 4,000+ fleet units, airport lounges, and worldwide digital hubs with zero visual degradation.",
+    "disciplines": [
+      "Graphic Design",
+      "Vector Art",
+      "Print & Brand Collateral"
+    ],
+    "launchUrl": "https://behance.net/gallery/1765432/Kinetix-Identity-Vector-Suite",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/vector-identity/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/vector-identity/banner-ecosystem.webp",
+        "alt": "Kinetix Global Transit Brand Identity Ecosystem and Fleet Graphics",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-vector-outlines.webp",
+        "alt": "Mathematical Bezier Vector Outlines vs Rendered Monogram",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-icon-system.webp",
+        "alt": "Custom 64-Piece Vector Wayfinding and Iconography Grid",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-stationery.webp",
+        "alt": "Letterpress Cotton Stationery, NFC Corporate Cards, and Embossed Envelopes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-print-collateral.webp",
+        "alt": "Annual Report Hardcover Book with Custom Spot-UV Grid Inserts",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "vector-illustration-corporate-suite",
+    "title": "Vector Illustration & Corporate Identity Suite",
+    "year": "2024",
+    "client": "Kinetix Global Logistics",
+    "summary": "Precision geometric vector identity, bespoke iconographic alphabet, and high-spec corporate collateral system engineered for international transit networks.",
+    "impact": "Applied across 4,000+ fleet units, airport lounges, and worldwide digital hubs with zero visual degradation.",
+    "disciplines": [
+      "Graphic Design",
+      "Vector Art",
+      "Print & Brand Collateral"
+    ],
+    "launchUrl": "https://behance.net/gallery/1765432/Kinetix-Identity-Vector-Suite",
+    "behanceUrl": "https://behance.net/syedwaleed",
+    "cover": "/media/projects/vector-identity/cover.webp",
+    "media": [
+      {
+        "type": "banner",
+        "src": "/media/projects/vector-identity/banner-ecosystem.webp",
+        "alt": "Kinetix Global Transit Brand Identity Ecosystem and Fleet Graphics",
+        "width": 1024,
+        "height": 500
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-vector-outlines.webp",
+        "alt": "Mathematical Bezier Vector Outlines vs Rendered Monogram",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-icon-system.webp",
+        "alt": "Custom 64-Piece Vector Wayfinding and Iconography Grid",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-stationery.webp",
+        "alt": "Letterpress Cotton Stationery, NFC Corporate Cards, and Embossed Envelopes",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "type": "square",
+        "src": "/media/projects/vector-identity/square-print-collateral.webp",
+        "alt": "Annual Report Hardcover Book with Custom Spot-UV Grid Inserts",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  }
+]

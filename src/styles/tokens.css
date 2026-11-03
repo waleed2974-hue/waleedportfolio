@@ -1,0 +1,104 @@
+/* ==========================================================================
+   DESIGN TOKENS - SYED WALEED PORTFOLIO
+   Dark-first monochrome canvas with swappable high-voltage accent.
+   ========================================================================== */
+
+:root {
+  /* Surface System */
+  --surface-primary: #0B0B0C;
+  --surface-elevated: #121215;
+  --surface-card: #16161A;
+  --surface-glass: rgba(18, 18, 21, 0.82);
+  --surface-overlay: rgba(11, 11, 12, 0.94);
+  
+  /* Text System */
+  --text-primary: #F4F4F6;
+  --text-muted: #8E8E93;
+  --text-dim: #545458;
+  --text-inverse: #0B0B0C;
+
+  /* Hairlines & Structural Dividers */
+  --hairline: rgba(255, 255, 255, 0.12);
+  --hairline-strong: rgba(255, 255, 255, 0.24);
+  --hairline-subtle: rgba(255, 255, 255, 0.06);
+
+  /* Swappable Accent:
+     Default: #E2FF32 (Acid Chartreuse)
+     Documented Alternate: #FF4D2D (International Neon Vermillion)
+     Switching this single token re-themes all interactive highlights.
+  */
+  --accent: #E2FF32;
+  --accent-alt: #FF4D2D;
+  --accent-contrast: #0B0B0C;
+  --accent-tint: rgba(226, 255, 50, 0.12);
+
+  /* Typography Families */
+  --font-display: 'Syne', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Fluid Typography Clamps (Carefully calibrated from 320px to 1920px) */
+  --font-size-hero: clamp(2rem, 5.5vw, 6rem);
+  --font-size-h1: clamp(1.85rem, 4vw, 4rem);
+  --font-size-h2: clamp(1.4rem, 2.5vw, 2.5rem);
+  --font-size-h3: clamp(1.15rem, 1.6vw, 1.65rem);
+  --font-size-body: clamp(0.95rem, 1vw, 1.125rem);
+  --font-size-body-sm: clamp(0.8rem, 0.88vw, 0.925rem);
+  --font-size-badge: 0.72rem;
+
+  /* Line Heights */
+  --leading-tight: 1.05;
+  --leading-snug: 1.25;
+  --leading-body: 1.6;
+
+  /* Letter Spacing */
+  --tracking-tightest: -0.04em;
+  --tracking-display: -0.03em;
+  --tracking-normal: 0em;
+  --tracking-mono: 0.08em;
+
+  /* Layout Spacing */
+  --site-gutter: clamp(1rem, 3.5vw, 4.5rem);
+  --section-gap: clamp(3.5rem, 7vw, 9rem);
+  --header-height: 80px;
+
+  /* Motion & Transitions */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-circ: cubic-bezier(0.85, 0, 0.15, 1);
+  --duration-fast: 0.2s;
+  --duration-normal: 0.45s;
+  --duration-slow: 0.85s;
+
+  /* Layering Stack */
+  --z-base: 1;
+  --z-sticky: 10;
+  --z-header: 100;
+  --z-drawer: 200;
+  --z-modal: 300;
+  --z-cursor: 999;
+  --z-preloader: 1000;
+}
+
+/* Responsive Token Breakpoints */
+@media (max-width: 768px) {
+  :root {
+    --header-height: 64px;
+    --site-gutter: clamp(1rem, 3.5vw, 1.75rem);
+    --section-gap: clamp(3rem, 6vw, 4.5rem);
+    --font-size-hero: clamp(1.85rem, 6.8vw, 3.25rem);
+    --font-size-h1: clamp(1.65rem, 5.5vw, 2.75rem);
+    --font-size-h2: clamp(1.3rem, 4.2vw, 2rem);
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --header-height: 58px;
+    --site-gutter: 1rem;
+    --font-size-hero: clamp(1.6rem, 7.5vw, 2.25rem);
+    --font-size-h1: clamp(1.4rem, 6vw, 2rem);
+    --font-size-h2: clamp(1.2rem, 4.8vw, 1.55rem);
+    --font-size-body: 0.95rem;
+    --font-size-body-sm: 0.825rem;
+  }
+}

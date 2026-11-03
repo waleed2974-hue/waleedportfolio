@@ -1,0 +1,29 @@
+[
+  {
+    "id": "inq-01",
+    "name": "Tariq Al-Mansoor",
+    "email": "tariq@noorholding.ae",
+    "budget": "$25k – $50k",
+    "types": [
+      "Brand Identity",
+      "Luxury Packaging",
+      "Bilingual Typography"
+    ],
+    "message": "We are launching a bespoke Emirati luxury home fragrance collection for late 2026 and need comprehensive bilingual brand guidelines, unboxing flacons, and gold foil typography.",
+    "status": "new",
+    "timestamp": "2026-10-26 22:35:12"
+  },
+  {
+    "id": "inq-02",
+    "name": "Elena Rostova",
+    "email": "elena@solaris-fintech.io",
+    "budget": "$10k – $25k",
+    "types": [
+      "UI/UX Design",
+      "Design System"
+    ],
+    "message": "Seeking a senior UI/UX designer to architect our dark-mode crypto wealth management dashboard and interactive GSAP chart telemetry.",
+    "status": "reviewed",
+    "timestamp": "2026-10-26 22:35:12"
+  }
+]

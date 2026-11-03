@@ -1,0 +1,130 @@
+[
+  {
+    "id": "lab-01",
+    "title": "Bilingual Calligraphic Logotype Lockup",
+    "category": "Brand Marks",
+    "date": "OCT 2026",
+    "disciplines": [
+      "Identity",
+      "Arabic Typography"
+    ],
+    "type": "image",
+    "src": "/media/updates/lab-01.webp",
+    "poster": null,
+    "aspect": "1/1",
+    "summary": "Exploration of contemporary Kufic strokes merged with sharp geometric grotesque letterforms.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-02",
+    "title": "Dynamic Bento Widget Telemetry Card",
+    "category": "UI/UX Shots",
+    "date": "SEP 2026",
+    "disciplines": [
+      "UI Design",
+      "Figma Components"
+    ],
+    "type": "video",
+    "src": "/media/updates/lab-02.mp4",
+    "poster": "/media/updates/lab-02-poster.webp",
+    "aspect": "16/9",
+    "summary": "Micro-interaction prototype with live numeric ticks and spring-damped chart animations.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-03",
+    "title": "Kinetic Variable Font Wave Distortion",
+    "category": "Code Experiments",
+    "date": "AUG 2026",
+    "disciplines": [
+      "GSAP 3",
+      "Creative Coding"
+    ],
+    "type": "video",
+    "src": "/media/updates/lab-03.mp4",
+    "poster": "/media/updates/lab-03-poster.webp",
+    "aspect": "1/1",
+    "summary": "Real-time pointer distance calculation mapped to variable font weight and optical size axes.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-04",
+    "title": "Hyper-Detailed Vector Mechanical Heart",
+    "category": "Vector & 3D Studies",
+    "date": "JUL 2026",
+    "disciplines": [
+      "Vector Art",
+      "Precision Grid"
+    ],
+    "type": "image",
+    "src": "/media/updates/lab-04.webp",
+    "poster": null,
+    "aspect": "4/5",
+    "summary": "1,200 anchor points built with pure golden ratio arcs in Adobe Illustrator.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-05",
+    "title": "Tactile Dark E-Commerce Cart Drawer",
+    "category": "UI/UX Shots",
+    "date": "JUN 2026",
+    "disciplines": [
+      "UX Research",
+      "Mobile UI"
+    ],
+    "type": "image",
+    "src": "/media/updates/lab-05.webp",
+    "poster": null,
+    "aspect": "1/1",
+    "summary": "One-thumb interaction architecture with haptic visual feedback on swipe-to-delete.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-06",
+    "title": "Minimalist Monogram System for Tech Fund",
+    "category": "Brand Marks",
+    "date": "MAY 2026",
+    "disciplines": [
+      "Logomark",
+      "Grid Systems"
+    ],
+    "type": "image",
+    "src": "/media/updates/lab-06.webp",
+    "poster": null,
+    "aspect": "16/9",
+    "summary": "Reductive single-stroke ligature representing infinite continuity and computational rigor.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-07",
+    "title": "Raymarched Glass Flacon Caustics",
+    "category": "Vector & 3D Studies",
+    "date": "APR 2026",
+    "disciplines": [
+      "3D Visuals",
+      "Materials"
+    ],
+    "type": "video",
+    "src": "/media/updates/lab-07.mp4",
+    "poster": "/media/updates/lab-07-poster.webp",
+    "aspect": "1/1",
+    "summary": "High-dispersion optical refraction through tinted perfume flacons under directional studio lights.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  },
+  {
+    "id": "lab-08",
+    "title": "Physics-Based Magnetic Cursor Snapping",
+    "category": "Code Experiments",
+    "date": "MAR 2026",
+    "disciplines": [
+      "Interactive Code",
+      "Spring Physics"
+    ],
+    "type": "image",
+    "src": "/media/updates/lab-08.webp",
+    "poster": null,
+    "aspect": "4/5",
+    "summary": "Custom Euler integration loop creating sticky magnetic pull zones around interactive pills.",
+    "behanceUrl": "https://behance.net/syedwaleed"
+  }
+]
